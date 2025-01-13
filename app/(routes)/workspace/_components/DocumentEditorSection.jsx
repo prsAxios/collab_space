@@ -12,7 +12,7 @@ function DocumentEditorSection({ params }) {
     return (
         <div className='relative'>
             {/* Header */}
-            <DocumentHeader />
+            <DocumentHeader />  
 
             {/* Document information */}
             <DocumentBody params={params} />

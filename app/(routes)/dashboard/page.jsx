@@ -4,6 +4,7 @@ import Header from './_components/Header'
 import CollabSpace from './_components/CollabSpaceList'
 
 function Dashboard(){
+   
     return(
         <div>
             <Header/>
